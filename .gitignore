@@ -1,0 +1,26 @@
+# Ignore Mac system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two newline characters
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items     
+.apdisk
+
+# Ignore node_modules folder
+node_modules/   
+backend/node_modules/
+frontend/node_modules/
